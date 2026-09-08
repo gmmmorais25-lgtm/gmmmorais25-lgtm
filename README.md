@@ -30,10 +30,8 @@
 ## 🔗 Redes:
 <p align="left">
 <a href="https://www.linkedin.com/in/gabriel-morais-831933374/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="mailto:gm.mmorais25@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="gmail" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=gm.mmorais25@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="gmail" /></a>
 </p>
-
-<br>
 
 ## 📊 GitHub Stats:
 
