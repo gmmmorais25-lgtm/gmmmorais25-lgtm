@@ -29,7 +29,7 @@
 ## 🔗 Redes:
 <p align="left">
 <a href="https://www.linkedin.com/in/gabriel-morais-831933374/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="mailto:gm.mmorais25@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" /></a>
+<img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="gmail" />
 </p>
 
 <br>
@@ -37,7 +37,7 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=gmmmorais25-lgtm&show_icons=true&theme=radical&hide_border=true" alt="gmmmorais25-lgtm" />
+<img align="center" src="https://github-stats-extended.vercel.app/api?username=gmmmorais25-lgtm&show_icons=true&theme=radical&hide_border=true" alt="gmmmorais25-lgtm" />
 </p>
 
 <p align="center">
@@ -45,5 +45,5 @@
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmmmorais25-lgtm&layout=compact&theme=radical&hide_border=true" alt="gmmmorais25-lgtm" />
+<img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=gmmmorais25-lgtm&layout=compact&theme=radical&hide_border=true" alt="gmmmorais25-lgtm" />
 </p>
