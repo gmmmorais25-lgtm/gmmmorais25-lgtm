@@ -26,10 +26,11 @@
 
 <br>
 
+
 ## 🔗 Redes:
 <p align="left">
 <a href="https://www.linkedin.com/in/gabriel-morais-831933374/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="gmail" />
+<a href="mailto:gm.mmorais25@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="gmail" /></a>
 </p>
 
 <br>
